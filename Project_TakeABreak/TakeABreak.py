@@ -3,8 +3,6 @@ import sys
 import time
 import webbrowser 
 
-print(sys.argv)
-
 # Parser for parsing input arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("--time", help="Flag for specifying interval between pauses, default is 10 seconds", type=float, default=10.0)
