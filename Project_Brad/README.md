@@ -4,6 +4,6 @@ Project Brad utilizes the built-in library "turtle" from Python, which allows us
 
 To run it, make sure you have __python2__  installed, and simply run the following command in your terminal:
 <pre>
-python Brad.py
+> python Brad.py
 </pre>
 and enjoy!
